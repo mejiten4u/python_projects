@@ -1,1 +1,1 @@
-print("Hello World in python programming with git")
+print("Hello World in python programming")
